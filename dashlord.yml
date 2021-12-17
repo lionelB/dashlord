@@ -280,7 +280,7 @@ urls:
     tags:
       - carnet-de-bord
       - staging
-  - url: carnet-de-bord-preprod.dev.fabrique.social.gouv.fr/
+  - url: https://carnet-de-bord.fabrique.social.gouv.fr
     category: startup
     repositories:
       - socialgouv/carnet-de-bord
